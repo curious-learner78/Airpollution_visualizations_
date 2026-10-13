@@ -54,7 +54,7 @@ This repository features a comprehensive **12-part research-grade visualization 
 
 ---
 
-## 🚀 Future Improvement 
+## 🔮 Future Improvement 
 
 - [ ] **Geospatial World Map Integration**: Implement interactive **Plotly Express scatter mapbox** visualizations to render city-level AQI points directly onto an interactive global map.
 - [ ] **Predictive Machine Learning Classifier**: Train a Random Forest or XGBoost multi-class classifier to predict `AQI Category` based purely on constituent pollutant sub-values.
